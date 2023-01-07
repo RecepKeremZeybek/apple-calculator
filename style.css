@@ -29,3 +29,12 @@ body {
   background-color: black;
   color: white;
 }
+
+.item{
+    border: 1px solid gray;
+    border-radius: 50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
